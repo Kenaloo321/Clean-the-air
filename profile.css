@@ -1,0 +1,14 @@
+
+ 
+
+.edit{
+    justify-content: right;
+}
+p{
+    font-size: medium;
+    justify-content: center;
+    font-family: 'Inter', sans-serif;
+}
+img .bnav{
+    justify-content: left;
+}
