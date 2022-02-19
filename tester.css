@@ -1,0 +1,58 @@
+.edit {
+  justify-content: right;
+}
+p {
+  font-size: small;
+  justify-content: center;
+  font-family: "Inter", sans-serif;
+}
+footer {
+  background-color: #92ddff;
+  text-align: center;
+  padding: 5px 0;
+  font-family: "Playfair Display", sans-serif;
+}
+.home {
+  text-align: center;
+  justify-content: center;
+}
+nav {
+  align-items: center;
+  justify-content: center;
+}
+.profile {
+  margin: 0 auto;
+  align-content: center;
+}
+.logo {
+}
+.profileimg {
+    margin-left: 200px;
+    max-width: 80vw;
+    height: 400px;
+    padding: 10px;
+}
+.card-img-top{
+    width: 18rem;
+    border-bottom: none;
+}
+.home{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+.col-sm-1{
+    margin: 0 auto;
+}
+.sticky-footer__item{
+    margin-bottom: 0;
+    align-items: center;
+}
+.icons{
+    margin-bottom: 0;
+    height: 35px;
+}
+.card{
+    border: none;
+}

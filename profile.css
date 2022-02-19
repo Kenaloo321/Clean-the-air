@@ -12,3 +12,13 @@ p{
 img .bnav{
     justify-content: left;
 }
+footer {
+    background-color: #92DDFF;
+    text-align: center;
+    padding: 5px 0;
+    font-family: "Playfair Display", sans-serif;
+}
+img .home{
+    text-align: center;
+    justify-content: center;
+}
